@@ -347,7 +347,7 @@ header{
 .footer {
   background-image: linear-gradient(hsl(var(--clr-primary-600)/0.8), 
   hsl(var(--clr-primary-600)/0.8)), 
-  url(/starter-code/assets/mobile/image-footer.jpg);
+  url(./starter-code/assets/mobile/image-footer.jpg);
   background-color:hsl(var(--clr-primary-600));
   background-position:top;
   background-repeat:no-repeat;
@@ -400,7 +400,7 @@ header{
   .footer {
     background-image: linear-gradient(hsl(var(--clr-primary-600)/0.8), 
   hsl(var(--clr-primary-600)/0.8)), 
-  url(/starter-code/assets/tablet/image-footer.jpg);
+  url(./starter-code/assets/tablet/image-footer.jpg);
   }
   
   .footer .transition {
