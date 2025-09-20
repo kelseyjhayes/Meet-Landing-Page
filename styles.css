@@ -416,7 +416,7 @@ header{
   .footer {
     background-image: linear-gradient(hsl(var(--clr-primary-600)/0.8), 
   hsl(var(--clr-primary-600)/0.8)), 
-  url(/starter-code/assets/desktop/image-footer.jpg);
+  url(./starter-code/assets/desktop/image-footer.jpg);
   display:flex;
   align-items:center;
   text-align:start;
